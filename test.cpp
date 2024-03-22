@@ -9,10 +9,10 @@ vector<vector<int>> findGoodMatrix(vector<vector<int>> &arr);
 int main() {
     // Input matrix
     vector<vector<int>> arr = {
-       {1, 1, 1, 1},   
-{0, 1, 1, 1},
-{1 ,1 ,1 ,1},
-{0 ,1 ,1 ,1}
+        {1, 1, 1, 1},   
+        {0, 1, 1, 1},
+        {1 ,1 ,1 ,1},
+        {0 ,1 ,1 ,1}
     };
 
     // Print original matrix
